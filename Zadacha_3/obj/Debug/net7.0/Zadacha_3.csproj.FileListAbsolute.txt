@@ -1,0 +1,14 @@
+C:\Users\Кристина\C#\Homework\Zadacha_3\bin\Debug\net7.0\Zadacha_3.exe
+C:\Users\Кристина\C#\Homework\Zadacha_3\bin\Debug\net7.0\Zadacha_3.deps.json
+C:\Users\Кристина\C#\Homework\Zadacha_3\bin\Debug\net7.0\Zadacha_3.runtimeconfig.json
+C:\Users\Кристина\C#\Homework\Zadacha_3\bin\Debug\net7.0\Zadacha_3.dll
+C:\Users\Кристина\C#\Homework\Zadacha_3\bin\Debug\net7.0\Zadacha_3.pdb
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.AssemblyInfoInputs.cache
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.AssemblyInfo.cs
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.dll
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\refint\Zadacha_3.dll
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.pdb
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\Zadacha_3.genruntimeconfig.cache
+C:\Users\Кристина\C#\Homework\Zadacha_3\obj\Debug\net7.0\ref\Zadacha_3.dll
